@@ -9,6 +9,8 @@ Links from Apple:
 
 [Welcome to Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-develop-in-swift-tutorials)
 
+[Develop apps for Apple platforms](https://developer.apple.com/tutorials/app-dev-training/)
+
 Links from Swift:
 
 [Swift Home Page](https://www.swift.org/)
